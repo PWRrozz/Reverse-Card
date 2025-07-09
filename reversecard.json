@@ -1,0 +1,17 @@
+{
+  "id": "reversecard",
+  "name": "Reverse Card",
+  "author": [
+    "1v0ry"
+  ],
+  "description": "UNO REVERSE CARD! Many jokers that are opposite to their counterparts.",
+  "prefix": "reversec",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "FFD1DC",
+  "badge_text_colour": "000000",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)"
+  ]
+}
